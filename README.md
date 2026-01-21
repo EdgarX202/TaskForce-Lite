@@ -4,6 +4,8 @@
 
 A task management system, which is smaller version of a similar product like Trello.
 
+Project start date: 21/01/26
+
 ### Stack
 - Frontend: Blazor
 - Backend: ASP.NET
