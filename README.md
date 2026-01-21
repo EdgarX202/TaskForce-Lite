@@ -1,6 +1,6 @@
 # TaskForce Lite
 
-A task management system similar to Trello.
+A task management system, which is smaller version of a similar product like Trello.
 
 ### Stack
 - Frontend: Blazor
