@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TaskForce.UI/TaskForce.UI.Client/TaskForce.UI.Client.csproj" />
+  <Project Path="TaskForce.UI/TaskForce.UI/TaskForce.UI.csproj" />
+</Solution>
